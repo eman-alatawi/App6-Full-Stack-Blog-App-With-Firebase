@@ -64,8 +64,6 @@
 <a href="https://ibb.co/9HP7Vsy"><img src="https://i.ibb.co/chqjCD2/10.png" alt="10" border="0"></a>
 
 
- 
-
 ## env file
 ```js
 VITE_FIREBASE_API_KEY=
